@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-# Author: Your Name
-# Author ID: Your Seneca ID
-# Date Created: YYYY/MM/DD
+# Author: payal payal
+# Author ID: ppayal1
+# Date Created: 2024/09/25
 
 timer = 10
 while timer > 0:
